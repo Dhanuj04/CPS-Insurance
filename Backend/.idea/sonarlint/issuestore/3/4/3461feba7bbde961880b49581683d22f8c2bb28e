@@ -1,0 +1,23 @@
+
+]
+java:S2259>"@A "NullPointerException" could be thrown; "od" is nullable here.(ðàÓÁ8§¤˜¹æ1
+…
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄÞ8²­¸¸æ1J$abcd95e6-fa9a-41e7-855c-401fc7997d10
+…
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄÞ8³­¸¸æ1J$19b94650-7eea-4d25-b06c-e2a79710c8c4
+…
+java:S6813("BRemove this field injection and use constructor injection instead.(êæÄÞ8µ­¸¸æ1J$54cdbd83-9596-45b4-b4a7-333886ee5915
+ƒ	java:S1251"<This block of commented-out lines of code should be removed.(·þ›Ûúÿÿÿÿ8Î­¸¸æ1J$29218f45-9b8f-4bb8-ad22-849d3edf3299
+R
+java:S2209>"5Change this instance-reference to a static reference.(ðàÓÁ8Ä¤˜¹æ1
+ñ
+java:S1130H"­Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.(û¿ü˜8Ð­¸¸æ1J$e6305018-42b2-44d0-9111-ba89a3155cd3
+~	java:S125["<This block of commented-out lines of code should be removed.(îø¿è8Ô­¸¸æ1J$a3705056-0eff-47fb-acdb-8e0da311ef17
+~	java:S125f"<This block of commented-out lines of code should be removed.(½—Ûµ8Ô­¸¸æ1J$cc176322-96dd-4e89-a6d4-23914524b458
+r	java:S106p"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8×­¸¸æ1J$a089a124-cdb7-4dc5-b912-274958797d24
+ƒ
+java:S1854":Remove this useless assignment to local variable "mapper".(ÐÏáúÿÿÿÿ8Ù­¸¸æ1J$957d1fb5-0751-4f37-8f32-4e2a24def78c
+t
+java:S1481"+Remove this unused "mapper" local variable.(ÐÏáúÿÿÿÿ8Ú­¸¸æ1J$d9fed2a2-d27b-4d69-a604-87c32a885ae3
+~	java:S125”"<This block of commented-out lines of code should be removed.(Ý™“.8Ü­¸¸æ1J$3822f8f2-b5f6-4bb6-bb97-c11a0ddc6793
+s	java:S106¥"+Replace this use of System.out by a logger.(˜Š¿Ûüÿÿÿÿ8Ý­¸¸æ1J$00b04957-4aeb-413a-957d-f26993e72f2e

@@ -66,7 +66,7 @@ public class CartService implements ICartService {
         WebClient client = WebClient.create();
         for (CartRequest request : cartRequests)
         {
-            String getPolicyURL="http://localhost:9090/app/PolicyByPolicyId/"+request.getPolicyId();
+            String getPolicyURL="http://localhost:9070/app/PolicyByPolicyId/"+request.getPolicyId();
             Mono<Policy> mono= client
                     .get()
                     .uri(getPolicyURL)
@@ -78,7 +78,6 @@ public class CartService implements ICartService {
 
         }
         return response;
-
 
 
     }

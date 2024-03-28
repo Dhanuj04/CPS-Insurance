@@ -1,0 +1,21 @@
+
+w
+java:S3740'"/Provide the parametrized type for this generic.(¿·–üÿÿÿÿ8‚Ç¸æ1J$1f540ce1-272e-4309-b9f5-d2d1e3057d27
+w
+java:S3740+"/Provide the parametrized type for this generic.(êÜ£°úÿÿÿÿ8‚Ç¸æ1J$f4ec81cd-2a46-46f1-a20b-7c76ff0eb6d1
+r
+java:S3740/"/Provide the parametrized type for this generic.(Ø£8‚Ç¸æ1J$b4176e84-64ec-480e-acc5-54d25bbd3ad0
+r
+java:S37402"/Provide the parametrized type for this generic.(íÒÜ8‚Ç¸æ1J$edfdfd7f-1201-4566-9bdb-c9eeeeb4ef8e
+r
+java:S37405"/Provide the parametrized type for this generic.(ÉŒÖ•8‚Ç¸æ1J$bcec6fac-a8b5-4e31-b0db-5a0ac90b9c61
+r
+java:S37408"/Provide the parametrized type for this generic.(íÒÜ8ƒÇ¸æ1J$f0ce3fa9-31b5-426e-acad-3667f1e22aa1
+…
+java:S6813$"BRemove this field injection and use constructor injection instead.(êæÄŞ8†Ç¸æ1J$30ee6a4d-ebd1-43ac-98b1-cdd0ef77f286
+~
+java:S1854)"6Remove this useless assignment to local variable "od".(É„Æåøÿÿÿÿ8‰Ç¸æ1J$f2ef28d0-5506-44bb-9e83-39002963e5e2
+o
+java:S1481)"'Remove this unused "od" local variable.(É„Æåøÿÿÿÿ8ŒÇ¸æ1J$553749e9-6ecc-431a-8ba7-ce40f11b7124
+ñ
+java:S11305"­Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.(ÉŒÖ•8Ç¸æ1J$334c0d3a-844a-41dd-9696-f6c268f89cea
